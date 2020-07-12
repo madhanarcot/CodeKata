@@ -1,13 +1,10 @@
 # CodeKata
 
-Use any .Net language; use any project type.  The goal of this exercise is to get a better glimpse into your thought process.  While this is a simple exercise, think of it as a large project, so put whatever patterns you think would be necessary for an enterprise level application. 
+In response to https://github.com/thanh81/CodeKata, created this project to implement the problem statement using a Console application using Dotnet Core3.1 framework.
 
+The code will process an input file and produce a console output summarising the driver and trip.
 
-
-Create a ReadMe file to explain any details you think would help verify your work.   
-Submit solution to GitHub or any other publicly accessible code repository.
-
-The code will process an input file. 
+Usage: ConsoleApp C:/input.txt
 
 Each line in the input file will start with a command. There are two possible commands.
 The first command is Driver, which will register a new Driver in the app. Example:
@@ -19,10 +16,11 @@ Generate a report containing each driver with total miles driven and average spe
 
 Example input:
 
+Trip Alex 12:01 24:10 42.0
 Driver Dan
-
+Trip Dan 07:15 07:45 17.3
 Driver Alex
-
+Trip Dan 06:12 06:32 21.8
 Driver Bob
 
 Trip Dan 07:15 07:45 17.3
@@ -36,8 +34,8 @@ Trip Alex 12:01 13:16 42.0
 
 Expected output:
 
-Alex: 42 miles @ 34 mph
+Dan: 78 miles @ 47 mph
 
-Dan: 39 miles @ 47 mph
+Alex: 42 miles @ 34 mph
 
 Bob: 0 miles

@@ -1,0 +1,9 @@
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\bin\Debug\netcoreapp3.1\HelperLib.deps.json
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\bin\Debug\netcoreapp3.1\HelperLib.dll
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\bin\Debug\netcoreapp3.1\HelperLib.pdb
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.csprojAssemblyReference.cache
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.csproj.CoreCompileInputs.cache
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.AssemblyInfoInputs.cache
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.AssemblyInfo.cs
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.dll
+C:\Users\v-maarco\source\repos\CodeKataResponse\HelperLib\obj\Debug\netcoreapp3.1\HelperLib.pdb

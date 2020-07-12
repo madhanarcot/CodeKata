@@ -3,12 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp.csproj", "{AED8C37D-36A3-4266-9543-DD13E4855E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp.csproj", "{AED8C37D-36A3-4266-9543-DD13E4855E57}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31D78548-71BD-455E-8F79-3C47A8933A41}"
 	ProjectSection(SolutionItems) = preProject
 		Input.txt = Input.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelperLib", "..\HelperLib\HelperLib.csproj", "{870E393F-B99A-41F5-996D-C92DF2DABE84}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +22,10 @@ Global
 		{AED8C37D-36A3-4266-9543-DD13E4855E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AED8C37D-36A3-4266-9543-DD13E4855E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AED8C37D-36A3-4266-9543-DD13E4855E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{870E393F-B99A-41F5-996D-C92DF2DABE84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870E393F-B99A-41F5-996D-C92DF2DABE84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870E393F-B99A-41F5-996D-C92DF2DABE84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870E393F-B99A-41F5-996D-C92DF2DABE84}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

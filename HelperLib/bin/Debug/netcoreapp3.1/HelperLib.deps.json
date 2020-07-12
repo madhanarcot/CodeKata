@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "ConsoleApp/1.0.0": {
-        "dependencies": {
-          "HelperLib": "1.0.0"
-        },
-        "runtime": {
-          "ConsoleApp.dll": {}
-        }
-      },
       "HelperLib/1.0.0": {
         "runtime": {
           "HelperLib.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "ConsoleApp/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "HelperLib/1.0.0": {
       "type": "project",
       "serviceable": false,

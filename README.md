@@ -17,10 +17,15 @@ Generate a report containing each driver with total miles driven and average spe
 Example input:
 
 Trip Alex 12:01 24:10 42.0
+
 Driver Dan
+
 Trip Dan 07:15 07:45 17.3
+
 Driver Alex
+
 Trip Dan 06:12 06:32 21.8
+
 Driver Bob
 
 Trip Dan 07:15 07:45 17.3
